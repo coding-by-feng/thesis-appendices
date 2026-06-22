@@ -19,9 +19,22 @@ Each appendix is referenced from the thesis by a link to its folder here.
 
 ## Media
 
-Screen recordings of the interactive graph portal's 3D stacked-layout mode, referenced from the Interactive Graph Portal chapter. Each uses a stacked layout whose vertical axis encodes a different property:
+Screen recordings of the interactive graph portal, referenced from the thesis.
+
+### 3D stacked-layout mode (Interactive Graph Portal chapter)
+
+Each uses a stacked layout whose vertical axis encodes a different property:
 
 | Recording | Vertical axis encodes |
 |---|---|
 | [media/3d_stack_layer_depth.mp4](media/3d_stack_layer_depth.mp4) | Expansion layer depth (five seeds at the base, successive layers above) |
 | [media/3d_stack_community.mp4](media/3d_stack_community.mp4) | Leiden community (each community as its own stratum) |
+
+### Network growth, 1841–2026 (Community Detection chapter)
+
+Ten-year cumulative snapshots of the five-seed expansion (18,469 reachable Acts), with node positions held fixed so the network fills in over time:
+
+| Recording | Layout |
+|---|---|
+| [media/graph_evolution.mp4](media/graph_evolution.mp4) | Radial by year — concentric rings by decade of enactment |
+| [media/graph_evolution_community.mp4](media/graph_evolution_community.mp4) | Circle-pack by Leiden community, with community labels |
